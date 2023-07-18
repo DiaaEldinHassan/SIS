@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "888334638271",
+    "project_id": "irriot-app",
+    "storage_bucket": "irriot-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888334638271:android:4803d0d0376815dc493a0a",
+        "android_client_info": {
+          "package_name": "com.example.irriot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888334638271-g3gl5u19oa0oog8m6u75epct1rsb7j9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuZuKUKgXj34SbYeZG2utqKP5nc6qo4Cw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888334638271-g3gl5u19oa0oog8m6u75epct1rsb7j9t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "888334638271-mlu1b3h6fq9gv87u4a0npjbj0mt8i6mm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.irriot"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
