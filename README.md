@@ -1,7 +1,7 @@
 # irriot
 
 A Smart Irrigation App
-
+An application that can help the user to know the states of the soil and the temperature and also can control the motor (turn on, turn off, automatic).
 ## Getting Started
 
 This project is a starting point for a Flutter application.
